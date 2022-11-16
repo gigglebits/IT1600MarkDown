@@ -13,8 +13,8 @@ ___
 ### Category: Cybersecurity
 - [*Cybersecurity: The Beginner's Guide*](/Ozkaya.md) by **Dr. Erdal Ozkaya**
 - [*Cybersecurity Threats, Malware Trends, and Strategies*](/TimRains.md) by **Tim Rains**
-- *Web Application Security: Exploitation and Countermeasures for Modern Web Applications* by **Andrew Hoffman**
+- [*Web Application Security: Exploitation and Countermeasures for Modern Web Applications*](/AppSec.md) by **Andrew Hoffman**
 ---
 ### Category: Fiction
-- *Do Androids Dream of Electric Sheep* by **Philip K. Dick**
-- *Avatar: The Rise of Kyoshi* by **F.C. Yee**
+- [*Do Androids Dream of Electric Sheep*](/ElectricSheep.md) by **Philip K. Dick**
+- [*Avatar: The Rise of Kyoshi*](/Kyoshi.md) by **F.C. Yee**
