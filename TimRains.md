@@ -9,4 +9,5 @@ The book will provide you with an evaluation of the various cybersecurity strate
 
 By the end of this book, you will know how to measure the effectiveness of your organization's cybersecurity strategy and the efficacy of the vendors you employ to help you protect your organization and yourself.
 
+![](/TimRains.jpg)
 *All of these discriptions are straight from the [Amazon.com](https://www.amazon.com/dp/1800206011?psc=1&ref=ppx_yo2ov_dt_b_product_details) store*
