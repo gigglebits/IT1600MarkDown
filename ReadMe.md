@@ -8,11 +8,11 @@ Hi there! I'm Trevor and here is a list of some of my favorite recent reads.
 - [*The Power of Habit*](/PowerOfHabit.md) by **Charles Duhigg**
 - [*The Millionaire Next Door*](/MillionaireNextDoor.md) by **Thomas J. Stanley**
 - [*The Richest Man in Babylon*](/RichestManinBabylon.md) by **George S. Clason**
-- [*Managing Oneself*](/ManagineOneself.md) by **Peter F. Drucker** - *Harvard Business Review Classic*
+- [*Managing Oneself*](/ManagingOneself.md) by **Peter F. Drucker** - *Harvard Business Review Classic*
 ___
 ### Category: Cybersecurity
-- *Cybersecurity: The Beginner's Guide* by **Dr. Erdal Ozkaya**
-- *Cybersecurity Threats, Malware Trends, and Strategies* by **Tim Rains**
+- [*Cybersecurity: The Beginner's Guide*](/Ozkaya.md) by **Dr. Erdal Ozkaya**
+- [*Cybersecurity Threats, Malware Trends, and Strategies*](/TimRains.md) by **Tim Rains**
 - *Web Application Security: Exploitation and Countermeasures for Modern Web Applications* by **Andrew Hoffman**
 ---
 ### Category: Fiction
